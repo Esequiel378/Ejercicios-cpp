@@ -1,0 +1,19 @@
+/*
+
+ Realizar un programa que sea capaz de leer un archivo llamado "precios.txt", y almacenar en un vector de enteros hasta un maximo de 10 numeros
+ 
+ Mostrar por pantalla:
+ 
+ * los elementos del vector ordenados de menor a mayor
+ * la suma de todos los elementos pares y la cantidad de los mismos
+ * la suma de todos los elementos impares y la cantidad de los mismos
+ 
+  El programa debe implementar el siguiente prototipo:
+ 
+void leer (int vector[NMAX], int& N);
+void ordenar (int vector[NMAX], int N);
+
+ Donde NMAX, es el numero maximo de elementos que puede almacenar el vector, para ello, no se permite
+utilizar variables globles, en su lugar utilizar constantes.
+
+*/
