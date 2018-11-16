@@ -1,6 +1,7 @@
 /*
 
- Realizar un programa que sea capaz de leer un archivo llamado "precios.txt", y almacenar en un vector de enteros hasta un maximo de 10 numeros
+ Realizar un programa que sea capaz de leer datos de un archivo llamado "precios.txt", y almacenarlos en un vector de enteros con 
+un maximo de hasta 10 elementos
  
  Mostrar por pantalla:
  
